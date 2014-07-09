@@ -12,11 +12,16 @@ Basically rearanges the right bar button items (or left) to fit into a number of
 
 Imagine you need to add 6 bar buttons to the right bar button items
 
-Without grouping
+#####Without grouping
+![](https://raw.githubusercontent.com/emilio-lopez/UIBarButtonItemGrouping/master/Screenshots/iPhone_disabled.png)
 
-Grouping with 2 spots
+#####Grouping with 2 spots
 
-Gropuing with 3 spots and overflow button selected
+![](https://raw.githubusercontent.com/emilio-lopez/UIBarButtonItemGrouping/master/Screenshots/iPhone_2_spots.png)
+
+#####Grouping with 3 spots and overflow button selected
+
+![](https://raw.githubusercontent.com/emilio-lopez/UIBarButtonItemGrouping/master/Screenshots/iPhone_3_spots_selected.png)
 
 ## Demo
 
@@ -28,14 +33,14 @@ Check the sample project to see how this category works
 
 - Import the header on your View Controller
 
-````
+```Objective-C
 #import "UINavigationItem+BarButtonGrouping.h"
-`````
+````
 
 - Call the method to group the bar button items setting the available spots
 
-````
+```Objective-C
 [self.navigationItem groupRightBarButtonItems:numOfAvailableSpots];
-`````
+````
 
 Thats it!
