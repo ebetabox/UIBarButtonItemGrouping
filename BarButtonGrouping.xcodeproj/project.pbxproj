@@ -27,6 +27,7 @@
 		BC85B145196DB2E60027AF59 /* iPad_2_spots_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = BC85B141196DB2E60027AF59 /* iPad_2_spots_selected.png */; };
 		BC85B146196DB2E60027AF59 /* iPhone_2_spots.png in Resources */ = {isa = PBXBuildFile; fileRef = BC85B142196DB2E60027AF59 /* iPhone_2_spots.png */; };
 		BC85B147196DB2E60027AF59 /* iPhone_3_spots_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = BC85B143196DB2E60027AF59 /* iPhone_3_spots_selected.png */; };
+		BC85B149196DB95C0027AF59 /* iPhone_disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = BC85B148196DB95C0027AF59 /* iPhone_disabled.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +67,7 @@
 		BC85B141196DB2E60027AF59 /* iPad_2_spots_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iPad_2_spots_selected.png; sourceTree = "<group>"; };
 		BC85B142196DB2E60027AF59 /* iPhone_2_spots.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iPhone_2_spots.png; sourceTree = "<group>"; };
 		BC85B143196DB2E60027AF59 /* iPhone_3_spots_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iPhone_3_spots_selected.png; sourceTree = "<group>"; };
+		BC85B148196DB95C0027AF59 /* iPhone_disabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iPhone_disabled.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,6 +178,7 @@
 				BC85B141196DB2E60027AF59 /* iPad_2_spots_selected.png */,
 				BC85B142196DB2E60027AF59 /* iPhone_2_spots.png */,
 				BC85B143196DB2E60027AF59 /* iPhone_3_spots_selected.png */,
+				BC85B148196DB95C0027AF59 /* iPhone_disabled.png */,
 			);
 			path = Screenshots;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				BC85B147196DB2E60027AF59 /* iPhone_3_spots_selected.png in Resources */,
 				BC85B146196DB2E60027AF59 /* iPhone_2_spots.png in Resources */,
 				BC85B145196DB2E60027AF59 /* iPad_2_spots_selected.png in Resources */,
+				BC85B149196DB95C0027AF59 /* iPhone_disabled.png in Resources */,
 				BC85B144196DB2E60027AF59 /* iPad_2_spots.png in Resources */,
 				7ECFD0B5196D8CEC00691DF0 /* Images.xcassets in Resources */,
 			);
